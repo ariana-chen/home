@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://ariana-chen.github.io/home/sitemap.xml
