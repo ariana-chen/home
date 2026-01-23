@@ -1,0 +1,10 @@
+baseURL: "http://localhost:3000/blog/"
+canonifyURLs: true
+languageCode: "zh-cn"
+title: "我的博客"
+theme: "congo"
+
+params:
+  appearance: "auto"
+  colorScheme: "congo"
+  defaultTheme: "light"
