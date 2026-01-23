@@ -4,21 +4,21 @@
   
     
       <url>
-            <loc>http://localhost:3000/blog/</loc>
+            <loc>http://ariana-chen.github.io/home/</loc>
             <lastmod>2026-01-21T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:3000/blog/about/</loc>
+            <loc>http://ariana-chen.github.io/home/about/</loc>
             <lastmod>2026-01-21T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:3000/blog/posts/</loc>
+            <loc>http://ariana-chen.github.io/home/posts/</loc>
           </url>
     
   
@@ -26,7 +26,7 @@
   
     
       <url>
-            <loc>http://localhost:3000/blog/posts/helloworld/</loc>
+            <loc>http://ariana-chen.github.io/home/posts/helloworld/</loc>
           </url>
     
   

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ariana-chen on Congo</title>
-    <link>http://localhost:3000/blog/</link>
+    <link>http://ariana-chen.github.io/home/</link>
     <description>Recent content in ariana-chen on Congo</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 21 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:3000/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ariana-chen.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于我</title>
-      <link>http://localhost:3000/blog/about/</link>
+      <link>http://ariana-chen.github.io/home/about/</link>
       <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3000/blog/about/</guid>
+      <guid>http://ariana-chen.github.io/home/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Helloworld</title>
-      <link>http://localhost:3000/blog/posts/helloworld/</link>
+      <link>http://ariana-chen.github.io/home/posts/helloworld/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3000/blog/posts/helloworld/</guid>
+      <guid>http://ariana-chen.github.io/home/posts/helloworld/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,4 +1,4 @@
-baseURL: "http://localhost:3000/blog/"
+baseURL: "http://ariana-chen.github.io/home/"
 canonifyURLs: true
 languageCode: "zh-cn"
 title: "我的博客"
