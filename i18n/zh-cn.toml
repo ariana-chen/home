@@ -1,0 +1,7 @@
+# 核心：Tags页面标题改为学习笔记
+[tags]
+other = "学习笔记 (Notes)"
+
+# 正确：新增独立主键配置页面描述，与[tags]同级，无保留键冲突
+[taxonomy.tags.description]
+other = "我的AI/心理学/编程学习笔记汇总 | 持续更新"

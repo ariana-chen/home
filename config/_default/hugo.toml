@@ -2,8 +2,8 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-# baseURL = "https://your_domain.com/"
-defaultContentLanguage = "en"
+baseURL = "https://ariana-chen.github.io/home/"
+defaultContentLanguage = "zh"
 
 enableRobotsTXT = true
 summaryLength = 0

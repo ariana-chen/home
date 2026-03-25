@@ -1,7 +1,29 @@
 ---
-title: "ariana-chen"
-description: "Personal homepage"
+title: "Ariana Chen"
+description: "热爱生活，记录成长，分享知识"
 ---
 
-欢迎来到我的博客！🙋
-**很高兴能在这里跟你相遇，希望我的分享能对你有帮助～**
+## 👋 欢迎来到我的小天地
+
+我是一名热爱技术与生活的探索者，喜欢：**代码**、**阅读**、**旅行**和**摄影**。
+
+这里记录着我的学习笔记、技术分享、生活感悟，以及那些值得被记住的瞬间。
+
+### ✨ 近期关注
+
+- 🚀 探索新技术与工具
+- 📚 阅读与知识管理
+- 🌍 发现生活中的美好
+- 💡 分享有价值的见解
+
+> *"保持好奇，持续学习，让每一天都有所收获。"*
+
+---
+
+{{< button href="/posts/" target="_self" >}}
+📖 阅读博客
+{{< /button >}}
+&nbsp;
+{{< button href="/about/" target="_self" style="secondary" >}}
+👤 了解更多
+{{< /button >}}

@@ -1,10 +1,24 @@
-baseURL: "http://ariana-chen.github.io/home/"
+# baseURL: "http:///"
+baseURL: "https://ariana-chen.github.io/blog/"
+# baseURL: "/blog/"
 canonifyURLs: true
 languageCode: "zh-cn"
-title: "我的博客"
+title: "Ariana的小站"
 theme: "congo"
 
 params:
   appearance: "auto"
   colorScheme: "congo"
   defaultTheme: "light"
+  author: "Ariana Chen"
+  description: "北京大学信息科学技术学院"
+  assets:
+    customCSS: ["css/custom.css"]
+  taxonomy:
+    tags:
+      title: "学习笔记(Notes)"
+      description: "我的AI/心理学/数学学习笔记"
+      class: "tags-page"
+
+    
+

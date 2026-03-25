@@ -1,0 +1,8 @@
+{{/* 自定义样式表 */}}
+{{ $customCSS := resources.Get "css/custom.css" }}
+{{ if $customCSS }}
+  <link rel="stylesheet" href="{{ $customCSS.RelPermalink }}" />
+{{ end }}
+
+{{/* 网站图标 */}}
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>✨</text></svg>" />
